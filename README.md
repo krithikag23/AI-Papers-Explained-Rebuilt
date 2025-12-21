@@ -13,3 +13,4 @@ For every selected AI research paper, this repository provides:
 - 🧮 **Mathematical intuition** behind key equations  
 - 🧾 **Pseudocode** for algorithmic clarity  
 - 💻 **Clean re-implementation** from scratch (where possible)  
+- 📊 **Experiments & observations**  
