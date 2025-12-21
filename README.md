@@ -10,3 +10,4 @@ The goal is not to chase state-of-the-art results, but to **deeply understand wh
 
 For every selected AI research paper, this repository provides:
 - 📖 **Plain-English explanation** of the core idea  
+- 🧮 **Mathematical intuition** behind key equations  
