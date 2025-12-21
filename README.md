@@ -1,2 +1,3 @@
 # AI Papers, Explained & Rebuilt
-Breaking down influential AI research papers into intuitive explanations, mathematical insights, and reproducible implementations.
+AI research papers often feel intimidating — dense math, heavy notation, and complex implementations.
+This repository is a personal learning initiative to **demystify influential AI papers** by explaining them clearly and rebuilding them step by step.
