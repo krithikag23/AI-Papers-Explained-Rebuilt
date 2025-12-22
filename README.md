@@ -18,6 +18,6 @@ For every selected AI research paper, this repository provides:
 
 ---
 ## 🧠 Why This Exists
-- To build **strong conceptual foundations** in AI
+- To build *strong conceptual foundations** in AI
 - To practice reproducible research
 - To bridge the gap between **theory and implementation**
