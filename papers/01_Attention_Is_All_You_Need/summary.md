@@ -7,3 +7,4 @@ This work fundamentally changed how natural language processing systems are buil
 ---
 
 ## Core Problem Addressed
+Before Transformers, sequence-to-sequence tasks such as machine translation primarily used RNNs or LSTMs. These models had key limitations:
