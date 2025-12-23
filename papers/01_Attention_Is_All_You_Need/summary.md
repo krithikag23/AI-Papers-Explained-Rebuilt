@@ -5,3 +5,5 @@ The paper *“Attention Is All You Need”* introduces the **Transformer archite
 This work fundamentally changed how natural language processing systems are built and laid the foundation for modern large language models.
 
 ---
+
+## Core Problem Addressed
