@@ -10,3 +10,4 @@ This work fundamentally changed how natural language processing systems are buil
 Before Transformers, sequence-to-sequence tasks such as machine translation primarily used RNNs or LSTMs. These models had key limitations:
 
 - Sequential processing limited parallelism
+- Difficulty capturing long-range dependencies
