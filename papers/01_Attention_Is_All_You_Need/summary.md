@@ -11,3 +11,4 @@ Before Transformers, sequence-to-sequence tasks such as machine translation prim
 
 - Sequential processing limited parallelism
 - Difficulty capturing long-range dependencies
+- High training time for long sequences
