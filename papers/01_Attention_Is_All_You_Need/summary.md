@@ -15,3 +15,4 @@ Before Transformers, sequence-to-sequence tasks such as machine translation prim
 
 The paper addresses the question:
 **Can we model sequence dependencies without recurrence or convolution?**
+---
