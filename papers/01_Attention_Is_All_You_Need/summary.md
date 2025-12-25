@@ -27,3 +27,5 @@ Instead of processing tokens one by one, the model:
 - Looks at the entire sequence at once
 - Assigns attention weights to determine which tokens are most relevant
 - Processes sequences in parallel, improving efficiency
+
+---
