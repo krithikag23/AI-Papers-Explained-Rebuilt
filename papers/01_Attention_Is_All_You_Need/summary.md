@@ -14,5 +14,10 @@ Before Transformers, sequence-to-sequence tasks such as machine translation prim
 - High training time for long sequences
 
 The paper addresses the question:
-**Can we model sequence dependencies without recurrence or convolution?**
+Can we model sequence dependencies without recurrence or convolution?
+
+
 ---
+
+
+## Key Idea
