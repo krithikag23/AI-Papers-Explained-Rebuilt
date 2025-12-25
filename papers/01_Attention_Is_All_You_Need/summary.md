@@ -22,3 +22,5 @@ Can we model sequence dependencies without recurrence or convolution?
 
 ## Key Idea
 The Transformer architecture uses **self-attention** to directly model relationships between all tokens in a sequence, regardless of their distance.
+
+Instead of processing tokens one by one, the model:
