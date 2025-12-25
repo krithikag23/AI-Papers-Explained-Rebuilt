@@ -25,3 +25,4 @@ The Transformer architecture uses **self-attention** to directly model relations
 
 Instead of processing tokens one by one, the model:
 - Looks at the entire sequence at once
+- Assigns attention weights to determine which tokens are most relevant
