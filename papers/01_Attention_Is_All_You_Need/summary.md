@@ -32,3 +32,4 @@ Instead of processing tokens one by one, the model:
 
 ## Transformer Architecture (High-Level)
 The model follows an **Encoder–Decoder** structure:
+### Encoder
