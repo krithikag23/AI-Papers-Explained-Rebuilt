@@ -34,3 +34,4 @@ Instead of processing tokens one by one, the model:
 The model follows an **Encoder–Decoder** structure:
 ### Encoder
 - Stack of identical layers
+- Each layer contains:
