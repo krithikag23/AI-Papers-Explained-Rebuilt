@@ -35,3 +35,4 @@ The model follows an **Encoder–Decoder** structure:
 ### Encoder
 - Stack of identical layers
 - Each layer contains:
+  - Multi-head self-attention
