@@ -29,3 +29,5 @@ Instead of processing tokens one by one, the model:
 - Processes sequences in parallel, improving efficiency
 
 ---
+
+## Transformer Architecture (High-Level)
