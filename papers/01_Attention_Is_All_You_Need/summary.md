@@ -43,3 +43,4 @@ The model follows an **Encoder–Decoder** structure:
 ### Decoder 
 - Similar stacked structure
 - Includes:
+  - Masked self-attention
