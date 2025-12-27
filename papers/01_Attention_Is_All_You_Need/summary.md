@@ -45,3 +45,4 @@ The model follows an **Encoder–Decoder** structure:
 - Includes:
   - Masked self-attention
   - Encoder–decoder attention
+  - Feed-forward layers
