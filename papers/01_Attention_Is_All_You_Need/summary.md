@@ -38,3 +38,6 @@ The model follows an **Encoder–Decoder** structure:
   - Multi-head self-attention
   - Position-wise feed-forward network
   - Residual connections and layer normalization
+
+
+### Decoder 
