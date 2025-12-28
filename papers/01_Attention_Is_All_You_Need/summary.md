@@ -48,3 +48,4 @@ The model follows an **Encoder–Decoder** structure:
   - Feed-forward layers
 
 ---
+## Why Attention Matters
