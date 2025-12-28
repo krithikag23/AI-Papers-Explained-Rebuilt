@@ -50,3 +50,4 @@ The model follows an **Encoder–Decoder** structure:
 ---
 ## Why Attention Matters
 Attention allows the model to:
+- Focus on relevant parts of the input sequence
