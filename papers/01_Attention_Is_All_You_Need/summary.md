@@ -55,3 +55,5 @@ Attention allows the model to:
 - Learn contextual representations dynamically
   
 This makes Transformers highly effective for language understanding and generation tasks.
+
+---
