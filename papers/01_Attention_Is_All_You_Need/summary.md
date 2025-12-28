@@ -52,3 +52,4 @@ The model follows an **Encoder–Decoder** structure:
 Attention allows the model to:
 - Focus on relevant parts of the input sequence
 - Capture long-range dependencies more effectively
+- Learn contextual representations dynamically
