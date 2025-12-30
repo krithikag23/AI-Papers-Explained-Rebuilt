@@ -61,3 +61,4 @@ This makes Transformers highly effective for language understanding and generati
 ## Impact of the Paper
 - Replaced RNNs as the dominant architecture in NLP
 - Enabled scalable training on large datasets
+- Led to models like BERT
