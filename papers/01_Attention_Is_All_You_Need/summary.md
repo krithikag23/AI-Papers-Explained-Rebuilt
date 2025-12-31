@@ -63,3 +63,5 @@ This makes Transformers highly effective for language understanding and generati
 - Enabled scalable training on large datasets
 - Led to models like BERT, GPT, and T5
 - Influenced applications beyond NLP (vision, speech, biology)
+
+---
