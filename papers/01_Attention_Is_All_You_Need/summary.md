@@ -65,3 +65,4 @@ This makes Transformers highly effective for language understanding and generati
 - Influenced applications beyond NLP (vision, speech, biology)
 
 ---
+## Key Takeaway
