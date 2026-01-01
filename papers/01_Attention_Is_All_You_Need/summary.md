@@ -68,3 +68,4 @@ This makes Transformers highly effective for language understanding and generati
 ## Key Takeaway
  Key Takeaway
 The central insight of this paper is that **sequence modeling does not require sequential computation**.
+By using attention alone, the Transformer achieves better performance, scalability, and flexibility than previous approaches.
