@@ -70,6 +70,7 @@ The central insight of this paper is that **sequence modeling does not require s
 By using attention alone, the Transformer achieves better performance, scalability, and flexibility than previous approaches.
 ---
 
+
 *Next steps:* 
 - Break down the self-attention mechanism mathematically 
 - Understand positional encoding 
