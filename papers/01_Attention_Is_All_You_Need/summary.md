@@ -71,3 +71,4 @@ By using attention alone, the Transformer achieves better performance, scalabili
 ---
 
 *Next steps:* 
+- Break down the self-attention mechanism mathematically 
