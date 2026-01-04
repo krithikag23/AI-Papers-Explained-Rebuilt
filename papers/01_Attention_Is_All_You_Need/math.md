@@ -12,3 +12,5 @@ relationships **between all tokens at once** using vector projections and simila
 
 ---
 ## Step 1 — Representing Tokens as Vectors
+
+Each token in the sentence is first converted into an embedding vector.
