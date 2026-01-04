@@ -11,3 +11,4 @@ Instead of processing tokens sequentially (like RNNs), the Transformer computes
 relationships **between all tokens at once** using vector projections and similarity scores.
 
 ---
+## Step 1 — Representing Tokens as Vectors
