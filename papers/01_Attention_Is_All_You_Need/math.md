@@ -16,3 +16,4 @@ relationships **between all tokens at once** using vector projections and simila
 Each token in the sentence is first converted into an embedding vector.
 From each embedding, the model computes three different vectors:
 - **Q — Query** → What information this token is looking for 
+- **K — Key** → What information this token contains  
