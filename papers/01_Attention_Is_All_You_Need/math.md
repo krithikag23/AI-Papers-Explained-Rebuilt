@@ -17,4 +17,6 @@ Each token in the sentence is first converted into an embedding vector.
 From each embedding, the model computes three different vectors:
 - **Q — Query** → What information this token is looking for 
 - **K — Key** → What information this token contains  
-- **V — Value** → The actual content to pass forward  
+- **V — Value** → The actual content to pass forward
+-   
+They are obtained by simple linear projections:
