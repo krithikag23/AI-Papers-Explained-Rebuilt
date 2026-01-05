@@ -21,3 +21,4 @@ From each embedding, the model computes three different vectors:
 
 They are obtained by simple linear projections:
 > Q = XWᵩ 
+> K = XWₖ 
