@@ -24,3 +24,5 @@ They are obtained by simple linear projections:
 > K = XWₖ 
 > V = XWᵥ  
 (Where `X` is the token embedding matrix, and `W` are learned weight matrices.)
+
+---
