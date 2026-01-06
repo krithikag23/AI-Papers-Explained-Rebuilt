@@ -26,3 +26,4 @@ They are obtained by simple linear projections:
 (Where `X` is the token embedding matrix, and `W` are learned weight matrices.)
 
 ---
+## Step 2 — Finding Relevance Using Similarity
