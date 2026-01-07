@@ -30,3 +30,4 @@ They are obtained by simple linear projections:
 To see how much one word should attend to another, we compare:
 > **Query of token i vs Key of token j**
 The similarity is computed using a dot product:
+> Q · Kᵀ
