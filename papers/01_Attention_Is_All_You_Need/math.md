@@ -29,3 +29,4 @@ They are obtained by simple linear projections:
 ## Step 2 — Finding Relevance Using Similarity
 To see how much one word should attend to another, we compare:
 > **Query of token i vs Key of token j**
+The similarity is computed using a dot product:
