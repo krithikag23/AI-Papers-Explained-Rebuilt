@@ -35,3 +35,5 @@ The similarity is computed using a dot product:
 
 
 This gives a score — higher score → stronger relationship.
+
+Example intuition:
