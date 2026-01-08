@@ -38,3 +38,4 @@ This gives a score — higher score → stronger relationship.
 
 Example intuition:
 - In *“The cat sat on the mat”* 
+  The word **“cat”** may attend more to **“sat”** than to **“the.”**
