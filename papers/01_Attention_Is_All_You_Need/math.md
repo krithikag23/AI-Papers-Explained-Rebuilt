@@ -32,3 +32,6 @@ To see how much one word should attend to another, we compare:
 
 The similarity is computed using a dot product:
 > Q · Kᵀ
+
+
+This gives a score — higher score → stronger relationship.
