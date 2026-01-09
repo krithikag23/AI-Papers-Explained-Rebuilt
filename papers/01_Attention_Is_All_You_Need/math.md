@@ -49,3 +49,5 @@ To avoid very large values, scores are scaled by:
 > √dₖ  (dimension of key vectors)
 
 So the formula becomes:
+
+> `Attention Score = (Q · Kᵀ) / √dₖ`
