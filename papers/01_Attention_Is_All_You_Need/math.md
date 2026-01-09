@@ -41,3 +41,5 @@ Example intuition:
   The word **“cat”** may attend more to **“sat”** than to **“the.”**
 
 ---
+
+## Step 3 — Scaling to Stabilize Training
