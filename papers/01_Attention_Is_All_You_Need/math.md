@@ -45,3 +45,5 @@ Example intuition:
 ## Step 3 — Scaling to Stabilize Training
 Dot products grow with vector dimension.
 To avoid very large values, scores are scaled by:
+
+> √dₖ  (dimension of key vectors)
