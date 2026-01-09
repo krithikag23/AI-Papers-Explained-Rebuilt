@@ -43,3 +43,4 @@ Example intuition:
 ---
 
 ## Step 3 — Scaling to Stabilize Training
+Dot products grow with vector dimension.
