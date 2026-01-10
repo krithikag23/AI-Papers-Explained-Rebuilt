@@ -51,3 +51,5 @@ To avoid very large values, scores are scaled by:
 So the formula becomes:
 
 > `Attention Score = (Q · Kᵀ) / √dₖ`
+
+This prevents extremely sharp gradients and improves learning stability.
