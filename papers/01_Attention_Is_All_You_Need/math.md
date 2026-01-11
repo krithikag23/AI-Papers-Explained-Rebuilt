@@ -57,3 +57,4 @@ This prevents extremely sharp gradients and improves learning stability.
 ---
 ## Step 4 — Softmax → Convert Scores to Probabilities
 The scores are converted into weights using **softmax**, so they:
+- are positive
