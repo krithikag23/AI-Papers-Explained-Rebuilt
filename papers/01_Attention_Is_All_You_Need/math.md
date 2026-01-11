@@ -55,3 +55,4 @@ So the formula becomes:
 This prevents extremely sharp gradients and improves learning stability.
 
 ---
+## Step 4 — Softmax → Convert Scores to Probabilities
