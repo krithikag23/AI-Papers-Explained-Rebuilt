@@ -60,3 +60,4 @@ The scores are converted into weights using **softmax**, so they:
 - are positive
 - sum to 1
 - form a probability distribution of importance
+Tokens with higher relevance receive higher attention weight.
