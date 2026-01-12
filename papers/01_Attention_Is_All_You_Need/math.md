@@ -64,3 +64,4 @@ The scores are converted into weights using **softmax**, so they:
 Tokens with higher relevance receive higher attention weight.
 ---
 
+## Step 5 — Weighted Sum of Values
