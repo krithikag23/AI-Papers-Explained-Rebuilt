@@ -69,3 +69,4 @@ Finally, attention output is computed as:
 > **Weighted sum of V (value vectors)**
 
 Meaning:
+- The model aggregates information from important words
