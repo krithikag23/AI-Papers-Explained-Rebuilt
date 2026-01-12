@@ -67,3 +67,5 @@ Tokens with higher relevance receive higher attention weight.
 ## Step 5 — Weighted Sum of Values
 Finally, attention output is computed as:
 > **Weighted sum of V (value vectors)**
+
+Meaning:
