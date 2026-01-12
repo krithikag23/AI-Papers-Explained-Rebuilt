@@ -70,3 +70,4 @@ Finally, attention output is computed as:
 
 Meaning:
 - The model aggregates information from important words
+- Irrelevant tokens contribute very little
