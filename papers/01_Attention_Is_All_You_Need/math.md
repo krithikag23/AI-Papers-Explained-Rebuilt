@@ -74,3 +74,5 @@ Meaning:
 
 This creates a **context-aware representation** of each token.
 ---
+
+## Why Multi-Head Attention?
