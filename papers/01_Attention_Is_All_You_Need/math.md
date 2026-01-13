@@ -77,3 +77,4 @@ This creates a **context-aware representation** of each token.
 
 ## Why Multi-Head Attention?
 Instead of learning one attention pattern, the model learns many:
+- One head may focus on grammar
