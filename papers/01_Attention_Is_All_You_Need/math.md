@@ -71,6 +71,7 @@ Finally, attention output is computed as:
 Meaning:
 - The model aggregates information from important words
 - Irrelevant tokens contribute very little
+  
 This creates a **context-aware representation** of each token.
 ---
 
