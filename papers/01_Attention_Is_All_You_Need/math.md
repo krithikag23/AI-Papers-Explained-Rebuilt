@@ -71,7 +71,6 @@ Finally, attention output is computed as:
 Meaning:
 - The model aggregates information from important words
 - Irrelevant tokens contribute very little
-
 This creates a **context-aware representation** of each token.
 ---
 
@@ -82,3 +81,4 @@ Instead of learning one attention pattern, the model learns many:
 - Another on positional relationships
 
 Each head captures a different perspective, improving expressiveness.
+---
