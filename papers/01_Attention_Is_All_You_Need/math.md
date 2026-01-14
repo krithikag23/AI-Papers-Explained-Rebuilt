@@ -79,3 +79,4 @@ This creates a **context-aware representation** of each token.
 Instead of learning one attention pattern, the model learns many:
 - One head may focus on grammar
 - Another on long-range meaning
+- Another on positional relationships
