@@ -80,3 +80,5 @@ Instead of learning one attention pattern, the model learns many:
 - One head may focus on grammar
 - Another on long-range meaning
 - Another on positional relationships
+
+Each head captures a different perspective, improving expressiveness.
