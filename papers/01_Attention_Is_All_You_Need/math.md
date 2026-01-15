@@ -86,3 +86,4 @@ Each head captures a different perspective, improving expressiveness.
 
 ## Key Intuition (Plain English)
 Self-attention allows the model to:
+- Look at **all words at once**
