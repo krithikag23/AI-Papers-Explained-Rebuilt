@@ -91,4 +91,6 @@ Self-attention allows the model to:
 - Combine information in a **context-aware way**
   
 No recurrence. No convolution.
+
 Just **parallel relationships + learned importance weights**.
+---
