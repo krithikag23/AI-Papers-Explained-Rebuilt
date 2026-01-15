@@ -88,3 +88,4 @@ Each head captures a different perspective, improving expressiveness.
 Self-attention allows the model to:
 - Look at **all words at once**
 - Decide **which words matter the most**
+- Combine information in a **context-aware way**
