@@ -83,3 +83,5 @@ Instead of learning one attention pattern, the model learns many:
 
 Each head captures a different perspective, improving expressiveness.
 ---
+
+## Key Intuition (Plain English)
