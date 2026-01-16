@@ -96,3 +96,4 @@ Just **parallel relationships + learned importance weights**.
 ---
 
 ## What This Math Enables
+- Better long-range dependency handling  
