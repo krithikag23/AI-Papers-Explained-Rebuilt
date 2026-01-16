@@ -94,3 +94,5 @@ No recurrence. No convolution.
 
 Just **parallel relationships + learned importance weights**.
 ---
+
+## What This Math Enables
