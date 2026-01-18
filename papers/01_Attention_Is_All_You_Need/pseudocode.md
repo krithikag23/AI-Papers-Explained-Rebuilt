@@ -12,3 +12,4 @@ The goal is to understand *how data flows through the architecture*, not impleme
 
 ---
 ## Key Takeaway
+The Transformer replaces sequential computation with:
