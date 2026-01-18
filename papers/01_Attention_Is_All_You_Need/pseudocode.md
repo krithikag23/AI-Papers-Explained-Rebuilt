@@ -11,3 +11,4 @@ The goal is to understand *how data flows through the architecture*, not impleme
 - h : Number of attention heads
 
 ---
+## Key Takeaway
