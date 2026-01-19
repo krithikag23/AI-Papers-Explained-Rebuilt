@@ -18,3 +18,4 @@ The Transformer replaces sequential computation with:
 - Clean architectural modularity
 
 This pseudocode highlights **how simplicity + attention scales better than recurrence**.
+---
