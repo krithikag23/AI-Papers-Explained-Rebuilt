@@ -16,3 +16,5 @@ The Transformer replaces sequential computation with:
 - Parallel attention
 - Learned relevance
 - Clean architectural modularity
+
+This pseudocode highlights **how simplicity + attention scales better than recurrence**.
