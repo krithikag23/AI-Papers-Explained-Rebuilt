@@ -15,3 +15,4 @@ The goal is to understand *how data flows through the architecture*, not impleme
 The Transformer replaces sequential computation with:
 - Parallel attention
 - Learned relevance
+- Clean architectural modularity
