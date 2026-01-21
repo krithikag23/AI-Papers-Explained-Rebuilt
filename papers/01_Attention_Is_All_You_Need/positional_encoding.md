@@ -13,9 +13,11 @@ Contain the same words, but very different meanings.
 Without position information, the model cannot distinguish between them.
 
 ---
+
 ## Core Idea
 **Positional encoding injects information about token order** into the input embeddings.
 Instead of learning order through recurrence (RNNs), the Transformer:
 - Adds a positional signal to each token embedding
 - Allows attention to consider *where* a token appears in the sequence
+
 ---
