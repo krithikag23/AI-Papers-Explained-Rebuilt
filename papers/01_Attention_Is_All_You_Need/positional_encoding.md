@@ -13,3 +13,5 @@ Contain the same words, but very different meanings.
 Without position information, the model cannot distinguish between them.
 
 ---
+## Core Idea
+**Positional encoding injects information about token order** into the input embeddings.
