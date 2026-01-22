@@ -24,3 +24,4 @@ Instead of learning order through recurrence (RNNs), the Transformer:
 
 ## How Positional Encoding Is Applied
 For each token:
+final_input = token_embedding + positional_encoding
