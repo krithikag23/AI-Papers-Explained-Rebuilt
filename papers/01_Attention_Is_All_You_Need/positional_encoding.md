@@ -25,3 +25,7 @@ Instead of learning order through recurrence (RNNs), the Transformer:
 ## How Positional Encoding Is Applied
 For each token:
 final_input = token_embedding + positional_encoding
+
+This ensures that:
+- Token identity and position are both preserved
+- Attention mechanisms can use position-aware information
