@@ -29,3 +29,5 @@ final_input = token_embedding + positional_encoding
 This ensures that:
 - Token identity and position are both preserved
 - Attention mechanisms can use position-aware information
+
+---
