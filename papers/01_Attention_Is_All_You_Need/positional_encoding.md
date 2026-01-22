@@ -21,3 +21,6 @@ Instead of learning order through recurrence (RNNs), the Transformer:
 - Allows attention to consider *where* a token appears in the sequence
 
 ---
+
+## How Positional Encoding Is Applied
+For each token:
