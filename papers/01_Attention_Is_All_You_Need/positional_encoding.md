@@ -45,3 +45,9 @@ PE(pos, 2i+1) = cos(pos / 10000^(2i/d_model))
 - Nearby positions have similar encodings
 - Far positions differ smoothly and predictably
 - The model can learn **relative positions** from linear combinations
+
+This design allows the Transformer to:
+- Generalize to longer sequences than seen during training
+- Understand both local and global ordering patterns
+
+---
