@@ -31,5 +31,9 @@ This ensures that:
 - Attention mechanisms can use position-aware information
 
 ---
+## Sinusoidal Positional Encoding
+The original paper uses **fixed sinusoidal functions** to encode position.
 
----
+For position `pos` and dimension `i`:
+PE(pos, 2i) = sin(pos / 10000^(2i/d_model))
+PE(pos, 2i+1) = cos(pos / 10000^(2i/d_model))
