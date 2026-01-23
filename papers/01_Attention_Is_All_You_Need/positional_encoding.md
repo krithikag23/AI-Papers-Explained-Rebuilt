@@ -39,3 +39,9 @@ PE(pos, 2i) = sin(pos / 10000^(2i/d_model))
 PE(pos, 2i+1) = cos(pos / 10000^(2i/d_model))
 
 ---
+
+## Intuition Behind the Formula
+- Different frequencies represent different positional scales
+- Nearby positions have similar encodings
+- Far positions differ smoothly and predictably
+- The model can learn **relative positions** from linear combinations
