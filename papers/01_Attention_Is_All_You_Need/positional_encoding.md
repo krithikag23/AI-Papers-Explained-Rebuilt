@@ -59,3 +59,5 @@ The authors chose fixed encodings because:
 - It provides consistent, mathematically structured signals
 
 (Later models do use learned or relative positional encodings.)
+
+---
