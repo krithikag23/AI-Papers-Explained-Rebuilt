@@ -54,3 +54,6 @@ This design allows the Transformer to:
 
 ## Why Not Just Learn Positions?
 The authors chose fixed encodings because:
+- No extra parameters are required
+- It avoids overfitting to specific sequence lengths
+- It provides consistent, mathematically structured signals
