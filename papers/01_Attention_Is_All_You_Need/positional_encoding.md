@@ -51,3 +51,6 @@ This design allows the Transformer to:
 - Understand both local and global ordering patterns
 
 ---
+
+## Why Not Just Learn Positions?
+The authors chose fixed encodings because:
