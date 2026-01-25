@@ -64,3 +64,6 @@ The authors chose fixed encodings because:
 
 ## Impact on Attention
 With positional encodings:
+- Attention knows *which word came before or after*
+- Dependencies like subject–verb agreement are preserved
+- Sentence structure becomes learnable without recurrence
