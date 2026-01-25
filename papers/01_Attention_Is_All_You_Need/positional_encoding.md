@@ -67,3 +67,5 @@ With positional encodings:
 - Attention knows *which word came before or after*
 - Dependencies like subject–verb agreement are preserved
 - Sentence structure becomes learnable without recurrence
+
+---
