@@ -63,3 +63,4 @@ The authors chose fixed encodings because:
 ---
 
 ## Impact on Attention
+With positional encodings:
