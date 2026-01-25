@@ -61,3 +61,5 @@ The authors chose fixed encodings because:
 (Later models do use learned or relative positional encodings.)
 
 ---
+
+## Impact on Attention
