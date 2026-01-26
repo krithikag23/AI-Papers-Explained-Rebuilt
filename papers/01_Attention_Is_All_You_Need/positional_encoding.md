@@ -76,3 +76,4 @@ Positional encoding solves a fundamental limitation of attention-only models:
 **order awareness**.
 
 It enables Transformers to:
+- Remain fully parallel
