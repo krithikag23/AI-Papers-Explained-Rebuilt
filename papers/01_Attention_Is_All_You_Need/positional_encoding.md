@@ -69,3 +69,8 @@ With positional encodings:
 - Sentence structure becomes learnable without recurrence
 
 ---
+
+
+## Key Takeaway
+Positional encoding solves a fundamental limitation of attention-only models:
+**order awareness**.
