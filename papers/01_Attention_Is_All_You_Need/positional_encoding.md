@@ -77,3 +77,4 @@ Positional encoding solves a fundamental limitation of attention-only models:
 
 It enables Transformers to:
 - Remain fully parallel
+- Capture sequence structure
