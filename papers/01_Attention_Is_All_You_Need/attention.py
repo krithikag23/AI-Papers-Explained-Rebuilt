@@ -5,3 +5,4 @@ This implementation focuses on clarity and correctness.
 It is meant for learning + reproducibility, not maximum speed.
 """
 
+import numpy as np
