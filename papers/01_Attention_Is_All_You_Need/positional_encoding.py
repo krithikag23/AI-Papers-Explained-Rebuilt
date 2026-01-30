@@ -34,3 +34,18 @@ def sinusoidal_positional_encoding(seq_len: int, d_model: int) -> np.ndarray:
     PE[:, 1::2] = np.cos(angles[:, 1::2])
 
     return PE
+
+
+def add_positional_encoding(X: np.ndarray) -> np.ndarray:
+    """
+    Add positional encodings to token embeddings.
+
+    Args:
+        X: token embeddings, shape (seq_len, d_model)
+
+    Returns:
+        X_with_PE: shape (seq_len, d_model)
+    """
+    seq_len, d_model = X.shape
+    PE = sinusoidal_positional_encoding(seq_len, d_model)
+    return X + PE
