@@ -12,6 +12,5 @@ def main():
 
     print("\nShape:", PE.shape)
 
-
 if __name__ == "__main__":
     main()
