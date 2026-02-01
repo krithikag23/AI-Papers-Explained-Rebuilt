@@ -11,3 +11,6 @@ def main():
     print(np.round(PE, 3))
 
     print("\nShape:", PE.shape)
+
+if __name__ == "__main__":
+    main()
