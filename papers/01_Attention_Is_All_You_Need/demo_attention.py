@@ -1,7 +1,6 @@
 import numpy as np
 from attention import scaled_dot_product_attention
 
-
 def main():
     seq_len = 6
     d_model = 8
