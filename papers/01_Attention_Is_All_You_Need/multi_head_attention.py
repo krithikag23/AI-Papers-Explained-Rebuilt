@@ -5,6 +5,7 @@ This file builds on scaled dot-product attention and shows how multiple heads
 can attend to different subspaces of the representation.
 """
 
+
 import numpy as np
 from attention import scaled_dot_product_attention
 
