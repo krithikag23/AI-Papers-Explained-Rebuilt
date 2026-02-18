@@ -34,3 +34,6 @@ def main():
 
     print("\nSample output (rounded):")
     print(np.round(output, 3))
+
+if __name__ == "__main__":
+    main()
