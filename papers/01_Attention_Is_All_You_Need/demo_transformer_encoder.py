@@ -6,6 +6,7 @@ python demo_transformer_encoder.py
 """
 
 import numpy as np
+import pandas as pd
 from transformer_encoder import TransformerEncoder
 
 def main():
