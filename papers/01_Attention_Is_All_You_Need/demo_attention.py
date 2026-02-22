@@ -29,6 +29,5 @@ def main():
     print("\nAttention Output:")
     print(np.round(output, 3))
 
-
 if __name__ == "__main__":
     main()
