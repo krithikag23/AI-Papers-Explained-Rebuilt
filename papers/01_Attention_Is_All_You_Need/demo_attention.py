@@ -1,5 +1,5 @@
 """
-Tiny demo for Scaled Dot-Product Attention.
+
 
 Run:
 python demo_attention.py
