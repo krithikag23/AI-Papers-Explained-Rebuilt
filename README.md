@@ -3,7 +3,6 @@ AI research papers often feel intimidating as they include dense math, heavy not
 This repository is a personal learning initiative to **demystify influential AI papers** by explaining them clearly and rebuilding them step by step.
 
 
-
 The goal is not to chase state-of-the-art results, but to **deeply understand why these ideas work**, how they are implemented, and where they succeed or fail in real-world systems.
 
 ---
